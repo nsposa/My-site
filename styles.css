@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  background-color: #c7f0db;
+  text-align: center;
+  font-family: 'Baskervville', serif;
+
+}
+
+h1 {
+  font-size: 90px;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.0rem;
+}
+
+h3 {
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #ffe8d6;
+  position: relative;
+  width: auto;
+  padding-top: 50px;
+  margin: 0;
+}
+
+.middle-container {
+  background-color: #c7f0db;
+  width: auto;
+  height: 200px;
+}
+
+.profile{
+  padding-left: 500px;
+  padding-right: 500px}
+
+
+.middle-container2 {
+  background-color: white;
+  width: auto;
+}
+
+
+.upper-bottom-conatiner{
+  background-color: white;
+}
+
+.bottom-conatiner{
+  background-color: white;
+}
+
+
+.mypic{
+  border-radius: 25%;
+}
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.cloud {
+  position: absolute;
+  bottom: 300px;
+  right: 850px;
+}
+
+.cloud1 {
+  position: absolute;
+  bottom: 300px;
+  right: 540px;
+}
+
+.mountain {
+  position: center;
+  bottom: 0px;
+}
+
+.row{
+  text-align: center;
+}
+
+.skill-row{
+  text-align: ;
+  padding-right: 300px;
+  padding-left: 300px;
+}
